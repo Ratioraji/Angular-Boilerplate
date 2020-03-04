@@ -18,6 +18,18 @@ const routes: Routes = [
         component:IndexComponent ,
       },
       {
+        path:'job-opportunities', //index
+        component:AboutUsComponent ,
+      },
+      {
+        path:'career-advice', //index
+        component:AboutUsComponent ,
+      },
+      {
+        path:'companies', //index
+        component:AboutUsComponent ,
+      },
+      {
         path:'about-us', //index
         component:AboutUsComponent ,
       },
